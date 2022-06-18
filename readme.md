@@ -1,6 +1,6 @@
 ## Heyyyyy guys!
 
-**This is Lucas and one more time I'm here to post other framework. The goal was just to know more about estatistics because that the framework is very simple.
+**This is Lucas and one more time I'm here to post other framework. The goal was just to know more about estatistics because that the framework is very simple.**
 
 This Framework was made by Google Colab and a better view use Google Collab to see.
 
